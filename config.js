@@ -44,7 +44,8 @@
   },
 
   "documents": {
-    "about": "./about.md"
+    "about": "./about.md",
+    "anirudhgupta": "./anirudhgupta.md"
   }
 
 }
