@@ -1,7 +1,7 @@
 {
 
-  "host": "0.0.0.0",
-  "port": 7777,
+  "host": "bin.del.dog",
+  "port": 80,
 
   "keyLength": 10,
 
