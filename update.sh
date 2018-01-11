@@ -7,4 +7,4 @@ kill $(screen -ls | awk '/\.dogbin\t/ {print strtonum($1)}')
 git pull
 
 # start new session
-screen -S dogbin -X npm start
+screen -Sdm dogbin npm start
