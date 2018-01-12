@@ -7,8 +7,6 @@
 
   "urlKeyLength": 7,
 
-  "maxLength": 400000,
-
   "staticMaxAge": 86400,
 
   "recompressStaticAssets": true,
