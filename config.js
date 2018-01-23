@@ -1,6 +1,6 @@
 {
 
-  "host": "del.dog",
+  "host": "0.0.0.0",
   "port": 80,
 
   "keyLength": 10,
