@@ -43,7 +43,8 @@
 
   "documents": {
     "about": "./about.md",
-    "anirudhgupta": "./anirudhgupta.md"
+    "anirudhgupta": "./anirudhgupta.md",
+    "changelog": "./changelog.md"
   }
 
 }
